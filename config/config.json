@@ -1,10 +1,6 @@
 {
   "development": {
-    "username": "root",
-    "password": null,
-    "database": "database_development",
-    "host": "127.0.0.1",
-    "dialect": "mysql"
+    "ur": "postgres://lcfgnyya:xnIdVbl_jzBl4MxLxOckDb5VQMqz0CPd@fanny.db.elephantsql.com/lcfgnyya"
   },
   "test": {
     "username": "root",
