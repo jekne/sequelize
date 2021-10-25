@@ -1,6 +1,6 @@
 {
   "development": {
-    "ur": "postgres://lcfgnyya:xnIdVbl_jzBl4MxLxOckDb5VQMqz0CPd@fanny.db.elephantsql.com/lcfgnyya"
+    "url": "postgres://lcfgnyya:xnIdVbl_jzBl4MxLxOckDb5VQMqz0CPd@fanny.db.elephantsql.com/lcfgnyya"
   },
   "test": {
     "username": "root",
